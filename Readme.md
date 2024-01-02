@@ -29,6 +29,7 @@ Referencias:
 | [Routing: Error Handling - Next.js (nextjs.org)](https://nextjs.org/docs/app/building-your-application/routing/error-handling)                                            | Error handling                                                                                                         |
 | [Learn Accessibility - web.dev](https://web.dev/learn/accessibility/)                                                                                                     | Accesobilidad WEB, incluye aspectos de discapacidad                                                                    |
 | [Credentials authentication - Auth.js (authjs.dev)](https://authjs.dev/getting-started/providers/credentials-tutorial?frameworks=next)                                    | Mayor información para autenticarse con cualquier otro proveedor de authenticación, esto incluye desarrollos propios |
+| [Learn Next.js: Next Steps - Next.js (nextjs.org)](https://nextjs.org/learn/dashboard-app/next-steps)                                                                     | Siguientes pasos, template, doc, etc                                                                                   |
 
 ### Ejemplo de ES vs JS
 
