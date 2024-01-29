@@ -210,3 +210,19 @@ There are various types of metadata, each serving a unique purpose. Some common 
 ```html
 <linkrel="icon"href="path/to/favicon.ico" />
 ```
+
+## Doc referencial para implementaciones futuras:
+
+### Frontend
+
+- [What&#39;s a story? • Storybook docs](https://storybook.js.org/docs/get-started/whats-a-story)
+- [Components Overview - Ant Design](https://ant.design/components/overview)
+- [Visual testing &amp; review for web user interfaces • Chromatic](https://www.chromatic.com/)
+- [Installation – three.js docs (threejs.org)](https://threejs.org/docs/index.html#manual/en/introduction/Installation)
+
+### Backend
+
+- [Project IDX](https://idx.dev/)
+- [Introduction | Pact Docs](https://docs.pact.io/)
+- [Supabase | The Open Source Firebase Alternative](https://supabase.com/)
+- [Getting Started - Hono](https://hono.dev/getting-started/basic)

@@ -1,0 +1,50 @@
+{
+    "DBEngineVersions": [
+        {
+            "Engine": "postgres",
+            "EngineVersion": "15.4",
+            "DBParameterGroupFamily": "postgres15",
+            "DBEngineDescription": "PostgreSQL",
+            "DBEngineVersionDescription": "PostgreSQL 15.4-R3",
+            "ValidUpgradeTarget": [
+                {
+                    "Engine": "postgres",
+                    "EngineVersion": "15.5",
+                    "Description": "PostgreSQL 15.5-R1",
+                    "AutoUpgrade": false,
+                    "IsMajorVersionUpgrade": false
+                },
+                {
+                    "Engine": "postgres",
+                    "EngineVersion": "16.1",
+                    "Description": "PostgreSQL 16.1-R1",
+                    "AutoUpgrade": false,
+                    "IsMajorVersionUpgrade": true
+                }
+            ],
+            "ExportableLogTypes": [
+                "postgresql",
+                "upgrade"
+            ],
+            "SupportsLogExportsToCloudwatchLogs": true,
+            "SupportsReadReplica": true,
+            "SupportedFeatureNames": [
+                "Lambda",
+                "s3Export",
+                "s3Import"
+            ],
+            "Status": "available",
+            "SupportsParallelQuery": false,
+            "SupportsGlobalDatabases": false,
+            "MajorEngineVersion": "15",
+            "SupportsBabelfish": false,
+            "SupportsCertificateRotationWithoutRestart": true,
+            "SupportedCACertificateIdentifiers": [
+                "rds-ca-2019",
+                "rds-ca-ecc384-g1",
+                "rds-ca-rsa4096-g1",
+                "rds-ca-rsa2048-g1"
+            ]
+        }
+    ]
+}
